@@ -5,10 +5,6 @@ Rishikesh
 
 # 🎬 MadLib-style YouTube Intro Generator
 
-This is my **first Python mini-project**, where I practiced how to take user input and format it into a YouTube-style video introduction.
-
----
-
 ## 📚 What I Learned
 
 - How to take input in Python using `input()`
