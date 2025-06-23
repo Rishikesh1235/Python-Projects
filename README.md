@@ -4,7 +4,9 @@ Learning Python by building projects
 Rishikesh 
 
 # 🎬 MadLib-style YouTube Intro Generator 
+- Project-1 1_madlib.py
 
+---
 ### 📚 What I Learned
 
 - How to take input in Python using `input()`
