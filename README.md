@@ -3,7 +3,7 @@ Learning Python by building projects
 <br>
 Rishikesh 
 
-# 🎬 MadLib-style YouTube Intro Generator
+<summary> 🎬 MadLib-style YouTube Intro Generator </summary>
 
 ## 📚 What I Learned
 
