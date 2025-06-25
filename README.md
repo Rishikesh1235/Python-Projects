@@ -24,4 +24,12 @@ The Program makes the user guess a random number
 
 ![MadLib Output](./images/guess_the_number_user.png)
 
+# 🎬 Guess the number by Computer  
+- Project-3 3_madlib.py
 
+The Program makes the computer guess a random number 
+---
+
+### Output 
+
+![MadLib Output](./images/guess_the_number_comp.png)
